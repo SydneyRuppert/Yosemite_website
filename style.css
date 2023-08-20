@@ -1,0 +1,71 @@
+footer {
+    margin-bottom: 0px;
+}
+.bottom {
+    background-color: black;
+    color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    /* margin-bottom: 20px; */
+    justify-content: space-evenly;
+}
+
+.map {
+    padding:2%;
+    padding-left: 100px;
+    width: 250px;
+
+}
+
+.maping{
+    width:250px;
+}
+
+.footinfo {
+    display: flex;
+    flex-direction: column;
+    width:  25%;
+    font:0.6em;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.footshows {
+    display: flex;
+    flex-direction: column; 
+    width:  25%;
+    font:0.6em;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.social{
+    display: flex;
+    flex-direction: column; 
+    width:  25%;
+    font:0.6em;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.foothead {
+    font-size: 2em;
+
+}
+
+.bottom {
+    background-color: black;
+
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    /* margin-bottom: 20px; */
+    justify-content: space-evenly;
+}
+
+.tiny{
+    color: white;
+    text-decoration: none;
+}
